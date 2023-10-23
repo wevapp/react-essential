@@ -1,0 +1,9 @@
+#root{
+    height: 110vh;
+}
+#root > .card-main-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+}
